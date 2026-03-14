@@ -3,9 +3,6 @@
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hadiulalamhredoy" alt="hadiulalamhredoy" /></a> </p>
-
-
 - 🌱 I’m currently learning **Python**
 
 - 👨‍💻 All of my projects are available at [https://drive.google.com/drive/folders/1Bhl6YiqZlmrqz8rtK6YJEkC7xVnUdpYp](https://drive.google.com/drive/folders/1Bhl6YiqZlmrqz8rtK6YJEkC7xVnUdpYp)
